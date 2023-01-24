@@ -13,4 +13,7 @@ Colorado Ready!
 
 * As a user I can add comments and edit or delete my own comments.
 
-
+Key Takeaways: 
+- Built using Vite 
+- Designed with Tailwind
+- Integrated Google Maps
